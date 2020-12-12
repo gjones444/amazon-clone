@@ -13,15 +13,15 @@ function Header() {
         />
       
 
-      <div className="header_Search">
-        <input className="header_SearchInput" type="text" />
-        <Search className="header_Search" />
+      <div className="header_search">
+        <input className="header_searchInput" type="text" />
+        <Search className="header_search" />
       </div>
 
       <div className="header_nav">
         
           <div className="header_option">
-            <span className="header_optionLineOne">Hello Guest</span>
+            <span className="header_optionLineOne">Hello, Guest</span>
             <span className="header_optionLineTwo">Sign In</span>
           </div>
         
